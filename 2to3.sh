@@ -3,9 +3,9 @@
 
 echo
 echo "#############################################################"
-echo "# 将2D视频转换成左右3D视频                                  #"
-echo "# Intro: https://www.cufrancis.com/                         #"
-echo "# Author: cufrancis <cufrancis.com@gmail.com>               #"
+echo "# 将2D视频转换成左右3D视频                                    #"
+echo "# Intro: https://www.llnhhy.com/                            #"
+echo "# Author: xiaojie luo <xiaojieluoff@gmail.com>              #"
 echo "#############################################################"
 echo
 
